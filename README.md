@@ -3,19 +3,20 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:7F00FF&height=220&section=header&text=Dhruv%20Rajput&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/DHRUVRAJPUTTT">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;B.Tech+CS+%40+Thapar+Institute;Open+to+AI%2FML+%26+Backend+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Cloud+%7C+DevOps+%7C+AWS;B.Tech+CS+%40+Thapar+Institute;Open+to+AI%2FML+%26+Backend+Engineering+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-7F00FF?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Patiala%2C%20Punjab-India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rajput2007)
+[![Email](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajput3177@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHRUVRAJPUTTT)
 
 <br/>
@@ -34,21 +35,13 @@
 
 I'm a Computer Science undergraduate at **Thapar Institute of Engineering and Technology**, Patiala, building toward a career as an **AI / Agentic AI Engineer**. My work centers on designing autonomous, tool-using LLM systems — from multi-step LangGraph agents to retrieval-augmented pipelines with strict evaluation and guardrail discipline.
 
-I approach engineering with a **product mindset**: every system I build is containerized, deployed, and made reproducible end-to-end, not left as a notebook experiment. My core focus areas are agentic orchestration, RAG architecture, LLM evaluation/guardrails, and full-stack delivery of AI-powered applications.
-
-```yaml
-engineer:
-  name: "Dhruv Rajput"
-  role: "Aspiring AI / Agentic AI Engineer"
-  focus:
-    - Agentic AI Systems (LangChain / LangGraph)
-    - Retrieval-Augmented Generation (RAG)
-    - LLM Evaluation & Guardrails
-    - Full-Stack & Backend Engineering
-  currently: "B.Tech CS, Thapar Institute of Engineering and Technology (2024–2028)"
-```
+I approach engineering with a **product mindset**: every system I build is containerized, deployed to the cloud, and made reproducible end-to-end — not left as a notebook experiment. My core focus areas are agentic orchestration, RAG architecture, LLM evaluation/guardrails, cloud & DevOps, and full-stack delivery of AI-powered applications.
 
 <div align="center">
+
+`🎓 B.Tech CS · Thapar Institute (2024–2028)` &nbsp; `🤖 Agentic AI` &nbsp; `🔍 RAG Architecture` &nbsp; `🛡️ LLM Guardrails` &nbsp; `☁️ Cloud & DevOps`
+
+<br/>
 
 **🎯 Open To:** AI/ML Engineering Internships · Agentic AI Projects · Backend Engineering Roles · Open Source Collaboration
 
@@ -238,45 +231,6 @@ Designing and shipping end-to-end agentic AI systems, from LangGraph orchestrati
 
 ---
 
-## 🟣 Certifications
-
-<div align="center">
-
-**☁️ AWS**
-
-![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock%20AgentCore%20(Hands--On%20Labs)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**🔶 Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Add%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**📘 NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Add%20Certification-1B6CA8?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**🌐 Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Add%20Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
-> *Badges above marked "Add Certification" are placeholders — swap in your verified certificate names/links.*
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add%20Username-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Username-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Username-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-username)
-
-</div>
-
----
-
 ## 🟣 GitHub Analytics
 
 <div align="center">
@@ -292,16 +246,6 @@ Designing and shipping end-to-end agentic AI systems, from LangGraph orchestrati
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DHRUVRAJPUTTT&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
@@ -312,44 +256,12 @@ Designing and shipping end-to-end agentic AI systems, from LangGraph orchestrati
 
 ---
 
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DHRUVRAJPUTTT/DHRUVRAJPUTTT/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> *Snake animation requires a one-time GitHub Actions workflow (`platane/snk`) added to your profile repo to generate this SVG.*
-
----
-
-## 🟣 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced Agentic AI patterns (Krish Naik's Complete Agentic AI Course)
-    - AWS Bedrock AgentCore: Guardrails, OAuth2/Cognito M2M auth, runtime deployment
-  building:
-    - End-to-end agentic AI applications with LangGraph
-    - RAG evaluation pipelines with guardrail integration
-  exploring:
-    - Multi-agent orchestration patterns
-    - Production-grade LLM observability and evaluation
-  open_to:
-    - AI/ML Engineering Internships
-    - Agentic AI & Backend collaboration opportunities
-```
-
----
-
 ## 🟣 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajput3177@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rajput2007)
 [![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHRUVRAJPUTTT)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
