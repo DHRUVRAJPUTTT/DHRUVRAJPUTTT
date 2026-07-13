@@ -309,30 +309,16 @@ Live Bedrock AgentCore exam lab covering Cognito OAuth2 M2M auth, AgentCore Runt
 
 </div>
 
-## 🔷 Achievements
-
-<div align="center">
-
-![Hackathon](https://img.shields.io/badge/🏆_Agentic_AI_Hackathon_2026-Applicant-00D9FF?style=for-the-badge)
-![SOP](https://img.shields.io/badge/📝_MLSS_SOP-Drafted-0066FF?style=for-the-badge)
-![BuildInPublic](https://img.shields.io/badge/📣_Build_in_Public-LinkedIn_Series-FF0080?style=for-the-badge)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0066FF,100:00D9FF&height=4" width="100%"/>
-
-</div>
-
 ## 🔷 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHRUVRAJPUTTT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=0066FF&text_color=C9C9C9&ring_color=FF0080" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=DHRUVRAJPUTTT&theme=tokyonight&hide_border=true&background=0A0E27&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DHRUVRAJPUTTT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=0066FF&text_color=C9C9C9&ring_color=FF0080&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=DHRUVRAJPUTTT&theme=tokyonight&hide_border=true&background=0A0E27&ring=00D9FF&fire=FF0080&currStreakLabel=00D9FF&cache_seconds=86400" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVRAJPUTTT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=C9C9C9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVRAJPUTTT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=C9C9C9&cache_seconds=86400" width="49%" />
 
 <br/><br/>
 
@@ -344,7 +330,9 @@ Live Bedrock AgentCore exam lab covering Cognito OAuth2 M2M auth, AgentCore Runt
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVRAJPUTTT&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=00D9FF&line=0066FF&point=ffffff" width="100%" />
+<a href="https://github.com/DHRUVRAJPUTTT">
+  <img src="https://ghchart.rshah.org/00D9FF/DHRUVRAJPUTTT" width="100%" alt="DHRUVRAJPUTTT's GitHub contribution graph" />
+</a>
 
 <br/><br/>
 
