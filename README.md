@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,35:0066FF,70:00D9FF,100:FF0080&height=220&section=header&text=Dhruv%20Rajput&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,35:0066FF,70:00D9FF,100:FF0080&height=220&section=header&text=Dhruv%20Rajput&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/DHRUVRAJPUTTT">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Cloud+%7C+DevOps+%7C+AWS;B.Tech+CS+%40+Thapar+Institute;Open+to+AI%2FML+%26+Backend+Engineering+Roles" alt="Typing SVG" />
@@ -330,9 +330,12 @@ Live Bedrock AgentCore exam lab covering Cognito OAuth2 M2M auth, AgentCore Runt
 
 <div align="center">
 
-<a href="https://github.com/DHRUVRAJPUTTT">
-  <img src="https://ghchart.rshah.org/00D9FF/DHRUVRAJPUTTT" width="100%" alt="DHRUVRAJPUTTT's GitHub contribution graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVRAJPUTTT&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=00D9FF&line=0066FF&point=ffffff&area=true&custom_title=This%20Week&days=7" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVRAJPUTTT&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=00D9FF&line=0066FF&point=ffffff&area=true&custom_title=This%20Month&days=30" width="49%" />
+
+<br/>
+
+*Lifetime totals & longest streak are on the streak card above ↑*
 
 <br/><br/>
 
